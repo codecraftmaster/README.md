@@ -17,6 +17,7 @@
 ### 🚧 Projects
 1.A Machine learning based fusion for stress level assessment(Acadamic project)
 2.Spring boot projects on crud operations using my sql work bench and postman api
+3.Project On Microservices using SpringBoot(Monolithic Architecture, Microservice Architecture)
 
 ---
 
